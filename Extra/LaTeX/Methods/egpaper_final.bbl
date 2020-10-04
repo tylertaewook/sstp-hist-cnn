@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{cimpoi14DTD}
+M. Cimpoi, S. Maji, I. Kokkinos, S. Mohamed, , and A. Vedaldi.
+\newblock Describing textures in the wild.
+\newblock In {\em Proceedings of the {IEEE} Conf. on Computer Vision and
+  Pattern Recognition ({CVPR})}, 2014.
+
+\bibitem{Kingma2014adam}
+Diederik~P. Kingma and Jimmy Ba.
+\newblock Adam: A method for stochastic optimization, 2014.
+\newblock cite arxiv:1412.6980Comment: Published as a conference paper at the
+  3rd International Conference for Learning Representations, San Diego, 2015.
+
+\bibitem{Xue2018dep}
+Jia Xue, Hang Zhang, and Kristin~J. Dana.
+\newblock Deep texture manifold for ground terrain recognition.
+\newblock {\em CoRR}, abs/1803.10896, 2018.
+
+\end{thebibliography}
