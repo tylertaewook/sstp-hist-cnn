@@ -65,6 +65,7 @@
 
 ML texture analysis research in Professor Alina Zare’s Machine Learning and Sensing Lab by implementing deep network models in PyTorch and conducted various experiments with different parameters
 
+As this was an on-going research, we cannot publish the code under SSTP's research security agreement.
 
 ### Built With
 
