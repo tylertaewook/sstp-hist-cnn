@@ -33,7 +33,9 @@
   <h3 align="center">Histogram Layer for Texture Classification</h3>
 
   <p align="center">
-    ML texture analysis research conducted as part of 2019 UF SSTP
+    ML texture analysis research in 2019 UF SSTP
+  <p align="center">
+      June 2019 – August 2019
     <br />
     <a href="https://github.com/tylertaewook/project-orbitron"><strong>Explore the docs »</strong></a>
     <br />
