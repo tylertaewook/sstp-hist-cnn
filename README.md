@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** tylertaewook, project-orbitron, alitecraft, taewook.kim@columbia.edu
+*** tylertaewook, sstp-hist-cnn, alitecraft, taewook.kim@columbia.edu
 -->
 
 
@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/tylertaewook/project-orbitron">
+  <a href="https://github.com/tylertaewook/sstp-hist-cnnn">
     <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
@@ -37,14 +37,14 @@
   <p align="center">
       June 2019 – August 2019
     <br />
-    <a href="https://github.com/tylertaewook/project-orbitron"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/tylertaewook/sstp-hist-cnn"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/tylertaewook/project-orbitron">View Demo</a>
+    <a href="https://github.com/tylertaewook/sstp-hist-cnn">View Demo</a>
     ·
-    <a href="https://github.com/tylertaewook/project-orbitron/issues">Report Bug</a>
+    <a href="https://github.com/tylertaewook/sstp-hist-cnn/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tylertaewook/project-orbitron/issues">Request Feature</a>
+    <a href="https://github.com/tylertaewook/sstp-hist-cnn/issues">Request Feature</a>
   </p>
 </p>
 
@@ -85,7 +85,7 @@ In the span of seven weeks, I modeled my own CNN model, performed experiments wi
 
 Tyler Kim - taewook.kim@columbia.edu
 
-Project Link: [https://github.com/tylertaewook/project-orbitron](https://github.com/tylertaewook/project-orbitron)
+Project Link: [https://github.com/tylertaewook/sstp-hist-cnn](https://github.com/tylertaewook/sstp-hist-cnn)
 
 
 
