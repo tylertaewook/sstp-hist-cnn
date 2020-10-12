@@ -96,9 +96,8 @@ Project Link: [https://github.com/tylertaewook/project-orbitron](https://github.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Joshua Peeples]()
+* [Alina Zare]()
 
 
 
