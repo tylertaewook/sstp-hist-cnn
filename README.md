@@ -54,8 +54,6 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [UF SSTP](#uf-sstp)
-  * [Research](#research)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -64,25 +62,23 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-ML texture analysis research in 2019 UF SSTP that implements deep network models in PyTorch for texture analysis applications.
-
+This project was an attempt to design a hybrid model that incorporates a stackable, localized histogram layer on CNN for texture classification analysis. We used RBF (Radial Basis Function) for localized binning operation without binning contraints and evaluated its performance on KTH-TIPS 2b dataset.
 
 ![Research](/images/research.png)
 
+The research was done in University of Florida as part of their 2019 SSTP (Student Science Training Program). [UF SSTP](https://www.cpet.ufl.edu/students/uf-cpet-summer-programs/student-science-training-program/) is a seven week residential research program for that emphasizes in research participation with a UF faculty research scientist and his or her research team.
+I worked in Professor Alina Zare's [Machine Learning and Sensing Lab](https://faculty.eng.ufl.edu/machine-learning/) and assisted with my mentor Joshua Peeples's  research 'Histogram Layer for Texture Classification'. As this is an on-going research, I am not allowed to publish any code under research security agreement. The lead author Joshua Peeples expects to publish the final article in 2022 Spring along with my co-authorship.
 
-<!-- UF SSTP -->
-### UF SSTP
-
-"[The University of Florida Student Science Training Program (UF SSTP)](https://www.cpet.ufl.edu/students/uf-cpet-summer-programs/student-science-training-program/) is a seven week residential research program for selected students entering senior year. The program emphasis is research participation with a UF faculty research scientist and his or her research team."
-
-"Students engage in the ongoing research of the faculty-mentor for 30 hours each week, attend a daily lecture series on current research topics, and participate in a UF honors seminar class.  Additionally, students develop important interpersonal, leadership, professional communication, and organizational skills through academic, social, and service activities." (Extracted from SSTP website's descriptions)
-
-<!-- RESEARCH -->
-### Research
-
-As this was an on-going research, we cannot publish the code under SSTP's research security agreement.
+> The final deliverables including paper and poaster can be accessed [here](https://github.com/tylertaewook/sstp-hist-cnn/tree/main/Final%20Deliverables)
 
 ![Presentation](/images/presentation.png)
+
+In the span of seven weeks, I modeled my own CNN model, performed experiments with different parameters, wrote a 5-page article, and gave a 10-minute presentation in front of SSTP student body. At the closing ceremony, my paper was awarded with 'Best Research Paper' in Computer Science division.
+
+Gatorsense Features:
+* [KIM ACCEPTED TO COLUMBIA UNIVERSITY SEAS](https://faculty.eng.ufl.edu/machine-learning/2019/12/kim-accepted-to-columbia-university-seas/)
+* [GATORSENSE HOSTS UF STUDENT SCIENCE TRAINING PROGRAM STUDENTS](https://faculty.eng.ufl.edu/machine-learning/2019/07/gatorsense-hosts-uf-student-science-training-program-students/)
+
 
 <!-- CONTACT -->
 ## Contact
