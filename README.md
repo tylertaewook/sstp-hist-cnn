@@ -64,9 +64,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Research](/images/research.png)
-
 ML texture analysis research in 2019 UF SSTP that implements deep network models in PyTorch for texture analysis applications.
+
+
+![Research](/images/research.png)
 
 
 <!-- UF SSTP -->
