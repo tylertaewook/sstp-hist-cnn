@@ -66,16 +66,20 @@
 
 ![Research](/images/research.png)
 
-ML texture analysis research in Professor Alina Zare’s Machine Learning and Sensing Lab by implementing deep network models in PyTorch and conducted various experiments with different parameters
+ML texture analysis research in 2019 UF SSTP that implements deep network models in PyTorch for texture analysis applications.
 
-As this was an on-going research, we cannot publish the code under SSTP's research security agreement.
 
 <!-- UF SSTP -->
 ### UF SSTP
 
+"[The University of Florida Student Science Training Program (UF SSTP)](https://www.cpet.ufl.edu/students/uf-cpet-summer-programs/student-science-training-program/) is a seven week residential research program for selected students entering senior year. The program emphasis is research participation with a UF faculty research scientist and his or her research team."
+
+"Students engage in the ongoing research of the faculty-mentor for 30 hours each week, attend a daily lecture series on current research topics, and participate in a UF honors seminar class.  Additionally, students develop important interpersonal, leadership, professional communication, and organizational skills through academic, social, and service activities." (Extracted from SSTP website's descriptions)
+
 <!-- RESEARCH -->
 ### Research
 
+As this was an on-going research, we cannot publish the code under SSTP's research security agreement.
 
 ![Presentation](/images/presentation.png)
 
