@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** tylertaewook, sstp-hist-cnn, alitecraft, taewook.kim@columbia.edu
+*** tylertaewook, project-orbitron, alitecraft, taewook.kim@columbia.edu
 -->
 
 
@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/tylertaewook/sstp-hist-cnn">
+  <a href="https://github.com/tylertaewook/project-orbitron">
     <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
@@ -37,14 +37,14 @@
   <p align="center">
       June 2019 – August 2019
     <br />
-    <a href="https://github.com/tylertaewook/sstp-hist-cnn"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/tylertaewook/project-orbitron"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/tylertaewook/sstp-hist-cnn">View Demo</a>
+    <a href="https://github.com/tylertaewook/project-orbitron">View Demo</a>
     ·
-    <a href="https://github.com/tylertaewook/sstp-hist-cnn/issues">Report Bug</a>
+    <a href="https://github.com/tylertaewook/project-orbitron/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tylertaewook/sstp-hist-cnn/issues">Request Feature</a>
+    <a href="https://github.com/tylertaewook/project-orbitron/issues">Request Feature</a>
   </p>
 </p>
 
@@ -54,7 +54,8 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+  * [UF SSTP](#uf-sstp)
+  * [Research](#research)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -63,24 +64,27 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Orbitron](/images/orbitron1.jpeg)
+![Research](/images/research.png)
 
 ML texture analysis research in Professor Alina Zare’s Machine Learning and Sensing Lab by implementing deep network models in PyTorch and conducted various experiments with different parameters
 
 As this was an on-going research, we cannot publish the code under SSTP's research security agreement.
 
-### Built With
+<!-- UF SSTP -->
+### UF SSTP
 
-* [PyTorch]()
-* [xxx]()
-* [xxx]()
+<!-- RESEARCH -->
+### Research
+
+
+![Presentation](/images/presentation.png)
 
 <!-- CONTACT -->
 ## Contact
 
 Tyler Kim - taewook.kim@columbia.edu
 
-Project Link: [https://github.com/tylertaewook/sstp-hist-cnn](https://github.com/tylertaewook/sstp-hist-cnn)
+Project Link: [https://github.com/tylertaewook/project-orbitron](https://github.com/tylertaewook/project-orbitron)
 
 
 
