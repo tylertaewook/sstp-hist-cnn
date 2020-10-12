@@ -92,10 +92,10 @@ Project Link: [https://github.com/tylertaewook/project-orbitron](https://github.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Dr. Joshua Peeples]()
-* [Dr. Alina Zare]()
-* [UF Student Science Training Program]()
-* [UF Research Computing - HiPerGator](http://researchcomputing.ufl.edu)
+* [Dr. Joshua Peeples]
+* [Dr. Alina Zare]
+* [UF Student Science Training Program](https://www.cpet.ufl.edu/students/uf-cpet-summer-programs/student-science-training-program/)
+* [UF Research Computing - HiPerGator](https://researchcomputing.ufl.edu)
 
 
 
